@@ -12,7 +12,7 @@ To create this dataset, the KITTI team utilized their autonomous driving platfor
 Besides providing all data in raw format, KITTI extracts benchmarks for each task and provides evaluation metrics and an evaluation website. The dataset's goal is to reduce the bias seen in laboratory conditions and offer real-world benchmarks with novel difficulties to the community.
 
 <p align="center">
-![passat_sensors](https://github.com/jaliyanimanthako/kitti-object-detection/assets/161110418/bb71f764-696e-4ba0-bc1a-1a61634a12d0)
+<img src = https://github.com/jaliyanimanthako/kitti-object-detection/assets/161110418/bb71f764-696e-4ba0-bc1a-1a61634a12d0>
 </p>
 
 Current object classifications in the KITTI dataset include:
