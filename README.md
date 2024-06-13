@@ -77,6 +77,9 @@ For more details, visit [Ultralytics YOLO](https://github.com/ultralytics/ultral
 
 ## Sri Lankan Road Traffic Accidents
 ### Overview
+
+![image](https://github.com/jaliyanimanthako/kitti-object-detection/assets/161110418/aefc2d9f-1b82-4723-964f-1c3f791de056)
+
 Sri Lanka has a significant issue with road traffic accidents, largely attributed to careless driving. According to recent statistics:
 - **Annual Traffic Accidents**: Over 35,000 traffic accidents occur each year.
 - **Fatalities**: Approximately 3,000 fatalities annually.
