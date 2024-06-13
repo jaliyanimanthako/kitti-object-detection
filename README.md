@@ -22,7 +22,7 @@ Current object classifications in the KITTI dataset include:
 The KITTI dataset currently classifies objects into the following categories:
 - Car
 - Pedestrian
-- Van: 
+- Van
 - Cyclist
 - Truck
 - Misc
@@ -105,16 +105,3 @@ This vehicle detection project can be expanded to address this issue by:
 
 By leveraging this technology, Sri Lanka can significantly reduce traffic accidents and enhance road safety for all users.
 
-## Contributing
-Contributions are welcome! Please open an issue or submit a pull request for any improvements, bug fixes, or new features.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-- The KITTI Vision Benchmark Suite for providing the dataset.
-- Ultralytics for developing and maintaining YOLO.
-
----
-
-Feel free to reach out if you have any questions or need further assistance. Happy coding!
