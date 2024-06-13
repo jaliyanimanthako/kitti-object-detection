@@ -62,7 +62,7 @@ For more details, visit [Ultralytics YOLO](https://github.com/ultralytics/ultral
 ## Further Developments
 ### Future Enhancements
 
-1. **Vehicle Direction Detection**
+1. **Vehicle Direction Detection**:
     - Extend the model to detect the direction in which vehicles are moving.
     - Use additional datasets or augment the KITTI dataset with more labeled data to improve direction detection.
       
