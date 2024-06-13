@@ -61,10 +61,11 @@ For more details, visit [Ultralytics YOLO](https://github.com/ultralytics/ultral
 
 ## Further Developments
 ### Future Enhancements
-1. **Vehicle Type Detection**:
-    - Extend the model to classify different types of vehicles (cars, trucks, buses, motorcycles, tuk-tuks, carts, etc.).
-    - Use additional datasets or augment the KITTI dataset with more labeled data to include local vehicles like tuk-tuks and carts.
 
+1. **Vehicle Direction Detection**
+    - Extend the model to detect the direction in which vehicles are moving.
+    - Use additional datasets or augment the KITTI dataset with more labeled data to improve direction detection.
+      
 2. **Speed Detection**:
     - Integrate optical flow techniques or employ multi-frame analysis to estimate the speed of detected vehicles.
     - Leverage sensor data from the dashboard camera if available.
