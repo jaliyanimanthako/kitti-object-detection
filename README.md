@@ -2,6 +2,8 @@
 
 ## Introduction
 This project aims to detect vehicles using a dashboard camera mounted on a vehicle, leveraging the YOLOv8 model and the KITTI dataset. The project not only focuses on vehicle detection but also lays the groundwork for future enhancements such as detecting different types of vehicles and estimating their speed.
+![val_batch2_pred](https://github.com/jaliyanimanthako/kitti-object-detection/assets/161110418/cf44aa52-4e46-4894-a509-b81d7031ab49)
+
 
 ## Dataset
 ### KITTI Dataset
