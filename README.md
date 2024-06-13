@@ -38,27 +38,16 @@ YOLO (You Only Look Once) is a state-of-the-art, real-time object detection syst
 - Better architecture and data augmentation techniques.
 - Enhanced training process.
 
+<p align="center">
+<img src = https://github.com/jaliyanimanthako/kitti-object-detection/assets/161110418/10485688-9945-4557-8a97-9ba7b594035d>
+</p>
+
 For more details, visit [Ultralytics YOLO](https://github.com/ultralytics/ultralytics).
 
-## Installation
-To set up the project, follow these steps:
+<p align="center">
+<img src = https://github.com/jaliyanimanthako/kitti-object-detection/assets/161110418/462e3dcd-042d-47d9-ba9f-24cb6278e476>
+</p>
 
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/vehicle-detection-yolov8.git
-    cd vehicle-detection-yolov8
-    ```
-
-2. Create a virtual environment and activate it:
-    ```bash
-    python -m venv venv
-    source venv/bin/activate   # On Windows, use `venv\Scripts\activate`
-    ```
-
-3. Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
 
 ## Further Developments
 ### Future Enhancements
