@@ -35,6 +35,11 @@ For more details, visit the [KITTI Vision Benchmark Suite](http://www.cvlibs.net
 
 ## Model
 ### YOLOv8 by Ultralytics
+
+<p align="center">
+<img src = https://github.com/jaliyanimanthako/kitti-object-detection/assets/161110418/462e3dcd-042d-47d9-ba9f-24cb6278e476>
+</p>
+
 YOLO (You Only Look Once) is a state-of-the-art, real-time object detection system. YOLOv8, the latest iteration by Ultralytics, introduces several improvements over its predecessors:
 - Improved accuracy and speed.
 - Better architecture and data augmentation techniques.
@@ -52,10 +57,6 @@ From the confusion matrix, we can observe:
 - Van and Truck Detection: Vans and trucks also show high accuracy, but there is room for improvement to reduce the confusion between these categories.
 - Background Detection: The background category shows a high level of misclassification, indicating that further refinement is needed to improve the model's ability to distinguish between objects and the background.
 For more details, visit [Ultralytics YOLO](https://github.com/ultralytics/ultralytics).
-
-<p align="center">
-<img src = https://github.com/jaliyanimanthako/kitti-object-detection/assets/161110418/462e3dcd-042d-47d9-ba9f-24cb6278e476>
-</p>
 
 
 ## Further Developments
