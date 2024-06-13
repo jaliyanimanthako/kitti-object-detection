@@ -22,7 +22,7 @@ Current object classifications in the KITTI dataset include:
 The KITTI dataset currently classifies objects into the following categories:
 - Car
 - Pedestrian
-- Van: 2
+- Van: 
 - Cyclist
 - Truck
 - Misc
