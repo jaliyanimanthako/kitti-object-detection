@@ -43,7 +43,14 @@ YOLO (You Only Look Once) is a state-of-the-art, real-time object detection syst
 <p align="center">
 <img src = https://github.com/jaliyanimanthako/kitti-object-detection/assets/161110418/10485688-9945-4557-8a97-9ba7b594035d>
 </p>
+The performance of our YOLOv8 model on the KITTI dataset is visualized using a normalized confusion matrix. This matrix provides insight into the model's accuracy and the misclassification rates across different categories.
 
+From the confusion matrix, we can observe:
+
+- High Accuracy for Car Detection: The model correctly identifies cars with an accuracy of 92%.
+- Misclassification of Pedestrians and Cyclists: There are notable misclassifications between pedestrians and cyclists, with a significant percentage of cyclists being misclassified as pedestrians.
+- Van and Truck Detection: Vans and trucks also show high accuracy, but there is room for improvement to reduce the confusion between these categories.
+- Background Detection: The background category shows a high level of misclassification, indicating that further refinement is needed to improve the model's ability to distinguish between objects and the background.
 For more details, visit [Ultralytics YOLO](https://github.com/ultralytics/ultralytics).
 
 <p align="center">
